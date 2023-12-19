@@ -1,0 +1,3 @@
+<div class="hpb211"><button style="text-align:right" class="play-pause-btn" onclick='playPause("HSN","HSN211",this)'><i class="fas fa-play"></i></button></div>
+<div class="hpb249"><button style="text-align:right" class="play-pause-btn" onclick='playPause("HSN","HSN249",this)'><i class="fas fa-play"></i></button></div>
+<div class="hpb250"><button style="text-align:right" class="play-pause-btn" onclick='playPause("HSN","HSN250",this)'><i class="fas fa-play"></i></button></div>
