@@ -1,1 +1,1 @@
-    https://lcadooarsmountain.org/web_content/original-glory/git/deploy.php 
+https://lcadooarsmountain.org/web_content/original-glory/deploy.php
