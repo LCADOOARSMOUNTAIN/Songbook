@@ -1,7 +1,7 @@
 import os
 import re
 
-directory = r'F:\Audios for SB\From Brother Jerome\Selected Songs'
+directory = r'E:\Audios For Website\From Brother Jerome\Selected Songs'
 
 pattern = re.compile(r'\D+(\d+)\.mp3')
 
